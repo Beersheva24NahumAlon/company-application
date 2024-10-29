@@ -1,0 +1,2 @@
+{"basicSalary":10000,"className":"telran.employees.Employee","id":200000,"department":"QA"}
+{"basicSalary":20000,"className":"telran.employees.Manager","id":300000,"department":"Dev","factor":1.5}
